@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/lib/updater/download-update/updates/binary-desktop-install.sh
